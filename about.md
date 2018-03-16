@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Muralishankar Sundaram. I am a web developer, i will spend my most of time in component development. My languages of choice would be JavaScript.
+My name is Muralishankar Sundaram. I am a web developer, i will spend my most of time in solving UI problems and technical discussion. My languages of choice would be JavaScript - ❤.
 
 
 ### Contact me
