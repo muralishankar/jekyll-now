@@ -1,3 +1,5 @@
+It's completly based on your requirement.
+
 ## call - apply
 
 Both `call` and `apply` execute the function with the given context `this` and parametter.
